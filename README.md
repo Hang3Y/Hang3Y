@@ -6,8 +6,8 @@ I am a medical imaging AI researcher focusing on **multimodal medical image anal
 
 ## 🧑‍💻 About Me
 
-* 🎓 I am interested in **medical image analysis** and **deep learning for healthcare**.
-* 🧠 My current research focuses on **medical image fusion**, **brain tumor segmentation** and **radiogenomics**.
+* 🎓 I am currently pursuing a Ph.D. degree at China University of Mining and Technology.
+* 🧠 I am interested in **medical image analysis** and **deep learning for healthcare**.
 * 🔬 I mainly work with medical imaging data, multimodal learning methods, and Linux-based deep learning environments.
 * 🌱 I am still growing as an open-source contributor, and I use GitHub to record my research code, experiments, and learning process.
 
