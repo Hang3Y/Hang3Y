@@ -1,4 +1,4 @@
-# Hi, I'm Hang Yang 👋
+# Hi, I'm Hang3Y 👋
 
 I am a medical imaging AI researcher focusing on **multimodal medical image analysis**, **medical image fusion**, **image quality assessment**, and **brain tumor segmentation**.
 
