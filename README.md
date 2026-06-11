@@ -1,6 +1,6 @@
 # Hi, I'm Hang Yang 👋
 
-I am a medical imaging AI researcher focusing on **multimodal medical image analysis**, **medical image fusion** (also **image quality assessment**) and **brain tumor segmentation**.
+I am a medical imaging AI researcher focusing on **multimodal medical image analysis**, **medical image fusion**, **image quality assessment**, and **brain tumor segmentation**.
 
 ---
 
@@ -44,5 +44,5 @@ More projects are slowly brewing... ☕
 
 ## 📫 Contact
 
-* ORCID: https://orcid.org/0000-0001-6556-6556
+* Email: yanghang317@gmail.com
 * GitHub: https://github.com/Hang3Y
